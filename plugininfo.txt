@@ -1,0 +1,194 @@
+<plugin>
+	<pluginversion>1.0.0</pluginversion>
+	<pluginname>indigoes</pluginname>
+
+	<playerstat>
+		<label>Soul</label>
+		<initialvalue>40</initialvalue>
+	</playerstat>
+	<deckzone>
+		<label>Esper</label>
+		<gamezonetoloadto>Hand</gamezonetoloadto>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Deck</label>
+		<gamezonetoloadto>Deck</gamezonetoloadto>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Orbs</label>
+		<gamezonetoloadto>Orbs</gamezonetoloadto>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Side deck</label>
+		<gamezonetoloadto>Side</gamezonetoloadto>
+		<shuffle>no</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Tokens</label>
+		<gamezonetoloadto>Tokens</gamezonetoloadto>
+		<shuffle>no</shuffle>
+	</deckzone>
+		
+	<gamezone>
+		<label>Hand</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Deck</label>
+		<visibletoowner>no</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Elysium</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Expel</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Orbs</label>
+		<visibletoowner>no</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Side</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Tokens</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	
+	<phase>
+		<label>Replenish</label>
+	</phase>
+	<phase>
+		<label>Main</lab>
+	</phase>
+	<phase>
+		<label>Battle</label>
+	</phase>
+	<phase>
+		<label>End</label>
+	</phase>
+	
+	<generalfunction>
+		<label>Replenish Phase</label>
+		<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	<generalfunction>
+		<label>Get Orb</label>
+	<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Orbs</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationowner>table</destinationowner>
+		<destinationposition>faceup</destinationposition>
+		<includeasbutton>yes</includeasbutton>
+	 </generalfunction>
+	<generalfunction>
+		<label>Send top deck to Graveyard</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Deck</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationowner>performer</destinationowner>
+		<destinationgamezone>Graveyard</destinationgamezone>
+		<destinationposition>top</destinationposition>
+	 </generalfunction>
+	<generalfunction>
+		<label>Roll D20</label>
+		<kind>ROLLD20</kind>
+	</generalfunction>
+	<generalfunction>
+		<label>Flip Coin</label>
+		<kind>FLIPCOIN</kind>
+	</generalfunction>
+	
+	<cardfunction>
+		<label>Refresh</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	<cardfunction>
+		<label>Weaken</label>	
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	<cardfunction>
+		<label>Guard</label>
+		<kind>MAKERIGHT180DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	<cardfunction>
+		<label>Keep Position</label>
+		<kind>TOGGLETURNALLIMMUNITY</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	<cardfunction>
+		<label>Take Control</label>
+		<kind>CHANGEOWNER</kind>
+	</cardfunction>
+	<cardfunction>
+		<label>Flip the card</label>
+		<kind>TURNOVER</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	<cardfunction>
+		<label>Edit Note</label>
+		<kind>EDITNOTE</kind>
+		<includeasbutton>yes</includeasbutton>
+		<PositionX>.4</PositionX>
+		<PositionY>.95</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Clear</label>
+		<kind>CLEARCARD</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add a basic counter</label>
+		<kind>ADDCOUNTER</kind>
+		<color>black</color>
+		<includeasbutton>yes</includeasbutton>
+		<PositionX>1</PositionX>
+		<PositionY>.1</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove a basic counter</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>black</color>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
+	<definition>
+		<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+	</definition>
+	<definition>
+		<kind>ISYOURFACEDOWNVISIBLE</kind>
+	</definition>
+	<definition>
+		<kind>GRIDSIZE</kind>
+		<value>2</value>
+	</definition>
+	<definition>
+		<kind>BACKVISIBILITY</kind>
+		<value>BACKVISIBILITYHIDEBACKINZONES</value>
+	</definition>
+</plugin>

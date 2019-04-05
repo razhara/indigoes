@@ -1,0 +1,17 @@
+<deck version="0.8">
+	<meta>
+		<game>indigoes</game>
+	</meta>
+	<superzone name="Esper">
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+	</superzone>
+</deck>
