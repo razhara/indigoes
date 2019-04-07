@@ -86,16 +86,26 @@ Shin the card master	FANTASY	F-23	F-23	Spirit	Magician/Familiar	[F][2]	3	7	7	Fan
 Betrayal	FANTASY	F-24	F-24	Spell		[F]	1			Fantasy	N	"Target 2 spirits you control, remove 1 loyalty counter from one of them and then put 2 loyalty counter to the others. If there are at least 5 loyalty counters on spirit you control draw a card."" """""""	
 Excellent Substituion	FANTASY	F-25	F-25	Spell		[F][1]	2			Fantasy	U	Target Spirit you control, return it to your hand, return target spirit your opponent control with total cost 3 or less to bottom of their deck.	
 Master and Servant	FANTASY	F-26	F-26	Ritual		[F][F][1]	3			Fantasy	N	"Seal 3 At the begining of your turn, remove 1 seal. once per turn when Magician you control destroy opponent spirit, put 1 loyalty counter on target familiar you control. once per turn when familiar you control deal damage to enemy esper, put 1 mastery counter on target magician you control.""when the seal become 0-> destroy this ritual and remove all mastery counter on your spirit, your spirit gain +X/0 for each mastery counter removed this way."""""""	
-Dean, Reckless Engineer	SCIENCE	S-00	S-00	Esper						Science	E	[Once per turn, only your turn] SS: Deal 1 damage to both player's soul|[30 or less][Once per turn, only your turn] S,Target Science spirit:it gains +1/-1|[20 or less][Once per turn, only your turn]SS,Target Science spirit:Refresh that spirit, it cannot attack this turn|[10 or less]<No More Reckless> [Once per turn, only your turn] S: Your Opponent reveals two of their hidden hand to you, keep it revealed.|Spirit Link: SSSS	
-Booster Unit	SCIENCE	S-01	S-01	Spirit	Unit	[S]	2	2		Science		This card cannot attack or guard.| S, Sacrifice this card: target Combat Bot gains +4/0 until end of turn.	
-Laser Drone	SCIENCE	S-02	S-02	Spirit	Combat Bot	[S]	4	2		Science		Enter->Deal 1 damage to your opponent's soul.| When this card attacks->Deal 1 damage to your opponent's soul.	
-ExploBot	SCIENCE	S-03	S-03	Spirit	Combat Bot	[S][S]	8	2		Science		When this card is destroyed->Deal 2 damage to both player's soul.	
-FearBot	SCIENCE	S-04	S-04	Spirit	Combat Bot	[S][S]	7	3		Science		Enter->target spirit with 3 or less remaining def-> Weaken that spirit.	
-Code Delta, Crusher	SCIENCE	S-05	S-05	Spirit	Combat Bot	[S][S][S]	8	7		Science		"When this card attack, target a guard spirit not being attacked-> Deal 3 damage to that spirit. [During main timing]Sacrifice another Combat Bot: This turn you may pay S less to Spirit Link [Spirit Link] Engineer or Navigator Esper: Transform this card into ""Code Delta, Anihilator"""	
-SnipBot	SCIENCE	S-06	S-06	Spirit	Combat Bot	[S][S][1]	9	5		Science		Enter-> target a guard spirit->This card deals X damage to that spirit, X=Combat bot in your elysium.	
-KnightBot	SCIENCE	S-07	S-07	Spirit	Combat Bot	[S][S][S][1]	10	7		Science	S	Intimidator	
-Electric Sabotage	SCIENCE	S-08	S-08	Spell		[S]				Science		Target a guard spirit and deals 4 damage to it.	
-Laser Beam	SCIENCE	S-09	S-09	Spell		[S][S]				Science		Choose one: | -Target a spirit and deals 4 damage to it | -Deals 4 damage to your opponent's soul.	
-Recycle Yard	SCIENCE	S-10	S-10	Ritual		[S][S][S]				Science		Whenever your combat bot except Scrapbot is destroyed->Put 2/1 ScrapBot into your field.	
-Code Delta, Anihilator	SCIENCE	S-05.1	S-05.1	Spirit	Combat Bot	[S][S][S][S][S][S]				Science		When this card succesfully transfomed->your Combat Bot spirits gain +X/0 where X is guard spirit your opponent control until end of turn. When this card attack, target a guard spirit not being attacked->deals 4 damage and weaken it.	
-ScrapBot	SCIENCE	S-10.1	S-10.1	Spirit	Combat Bot	[S]	2	1		Science			
+Dean, Reckless Engineer	SCIENCE	S-00	S-00	Esper			0			Science	E	[Once per turn, only your turn] SS: Deal 1 damage to both player's soul|[30 or less][Once per turn, only your turn] S,Target Science spirit:it gains +1/-1|[20 or less][Once per turn, only your turn]SS,Target Science spirit:Refresh that spirit, it cannot attack this turn|[10 or less]<No More Reckless> [Once per turn, only your turn] S: Your Opponent reveals two of their hidden hand to you, keep it revealed.|Spirit Link: SSSS	
+Booster Unit	SCIENCE	S-01	S-01	Spirit	Unit	[S]	1	2	2	Science		This card cannot attack or guard.| S, Sacrifice this card: target Combat Bot gains +4/0 until end of turn.	
+Laser Drone	SCIENCE	S-02	S-02	Spirit	Combat Bot	[S]	1	4	2	Science		Enter->Deal 1 damage to your opponent's soul.| When this card attacks->Deal 1 damage to your opponent's soul.	
+ExploBot	SCIENCE	S-03	S-03	Spirit	Combat Bot	[S][S]	2	8	2	Science		When this card is destroyed->Deal 2 damage to both player's soul.	
+FearBot	SCIENCE	S-04	S-04	Spirit	Combat Bot	[S][S]	2	7	3	Science		Enter->target spirit with 3 or less remaining def-> Weaken that spirit.	
+Code Delta, Crusher	SCIENCE	S-05	S-05	Spirit	Combat Bot	[S][S][S]	3	8	7	Science		"When this card attack, target a guard spirit not being attacked-> Deal 3 damage to that spirit. [During main timing]Sacrifice another Combat Bot: This turn you may pay S less to Spirit Link [Spirit Link] Engineer or Navigator Esper: Transform this card into ""Code Delta, Anihilator"""	
+SnipBot	SCIENCE	S-06	S-06	Spirit	Combat Bot	[S][S][1]	3	9	5	Science		Enter-> target a guard spirit->This card deals X damage to that spirit, X=Combat bot in your elysium.	
+KnightBot	SCIENCE	S-07	S-07	Spirit	Combat Bot	[S][S][S][1]	4	10	7	Science	S	Intimidator	
+Electric Sabotage	SCIENCE	S-08	S-08	Spell		[S]	1			Science		Target a guard spirit and deals 4 damage to it.	
+Laser Beam	SCIENCE	S-09	S-09	Spell		[S][S]	2			Science		Choose one: | -Target a spirit and deals 4 damage to it | -Deals 4 damage to your opponent's soul.	
+Recycle Yard	SCIENCE	S-10	S-10	Ritual		[S][S][S]	3			Science		Whenever your combat bot except Scrapbot is destroyed->Put 2/1 ScrapBot into your field.	
+Code Delta, Anihilator	SCIENCE	S-05.1	S-05.1	Spirit	Combat Bot	[S][S][S][S][S][S]	6			Science		When this card succesfully transfomed->your Combat Bot spirits gain +X/0 where X is guard spirit your opponent control until end of turn. When this card attack, target a guard spirit not being attacked->deals 4 damage and weaken it.	
+ScrapBot	SCIENCE	S-10.1	S-10.1	Spirit	Combat Bot	[S]	1	2	1	Science			
+Elf 1	NEUTRAL	Elf 1	Elf 1	SPIRIT	Elf	[1]	1	4	4	Neutral			
+Elf 2	NEUTRAL	Elf 2	Elf 2	SPIRIT	Elf	[1]	1	2	6	Neutral			
+Elf 3	NEUTRAL	Elf 3	Elf 3	SPIRIT	Elf	[2]	2	7	5	Neutral			
+Elf 4	NEUTRAL	Elf 4	Elf 4	SPIRIT	Elf	[2]	2	5	7	Neutral			
+Elf 5	NEUTRAL	Elf 5	Elf 5	SPIRIT	Elf	[3]	3	7	8	Neutral			
+Elf 6	NEUTRAL	Elf 6	Elf 6	SPIRIT	Elf	[3]	3	9	6	Neutral			
+Elf 7	NEUTRAL	Elf 7	Elf 7	SPIRIT	Elf	[4]	4	10	10	Neutral			
+Elf 8	NEUTRAL	Elf 8	Elf 8	SPIRIT	Elf	[4]	4	8	12	Neutral			
+Elf 9	NEUTRAL	Elf 9	Elf 9	SPIRIT	Elf	[5]	5	12	12	Neutral			
+Elf 10	NEUTRAL	Elf 10	Elf 10	SPIRIT	Elf	[1]	1	6	2	Neutral			
