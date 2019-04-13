@@ -3,7 +3,7 @@
 		<game>indigoes</game>
 	</meta>
 	<superzone name="Esper">
-		<card><name id="G-00">&quot;Nina, the Flower Girl&quot;</name><set>GAIA</set></card>
+		<card><name id="G-00">Nina, the Flower Girl</name><set>GAIA</set></card>
 	</superzone>
 	<superzone name="Deck">
 		<card><name id="G-08">Bouquete Maker Elf</name><set>GAIA</set></card>
@@ -42,10 +42,10 @@
 		<card><name id="G-03">Thorny Rose</name><set>GAIA</set></card>
 		<card><name id="G-03">Thorny Rose</name><set>GAIA</set></card>
 		<card><name id="G-03">Thorny Rose</name><set>GAIA</set></card>
-		<card><name id="G-06">&quot;Lily, Soul of Purity&quot;</name><set>GAIA</set></card>
-		<card><name id="G-06">&quot;Lily, Soul of Purity&quot;</name><set>GAIA</set></card>
-		<card><name id="G-06">&quot;Lily, Soul of Purity&quot;</name><set>GAIA</set></card>
-		<card><name id="G-06">&quot;Lily, Soul of Purity&quot;</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
+		<card><name id="G-06">Lily, Soul of Purity</name><set>GAIA</set></card>
 	</superzone>
 	<superzone name="Orbs">
 		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
@@ -90,6 +90,5 @@
 		<card><name id="G-10.1">Rose Petals</name><set>GAIA</set></card>
 		<card><name id="G-10.1">Rose Petals</name><set>GAIA</set></card>
 		<card><name id="G-10.1">Rose Petals</name><set>GAIA</set></card>
-		<card><name id="G-06.1">&quot;White Lily, Pure Bond&quot;</name><set>GAIA</set></card>
 	</superzone>
 </deck>
