@@ -48,6 +48,18 @@ Annabelle, Leaked Nightmare	CORRUPT	C-08L	C-08L	Linked Spirit	Puppet	[C][C][C][C
 Make it Doll	CORRUPT	C-09	C-09	Spell		[C][C][C][C][C]	5			Corrupt	S	Target spirit gains -10/-10. This turn, if that spirit is destroyed-> put a Lone Doll into your field.	
 Doll Deal	CORRUPT	C-10	C-10	Spell		[C][C]	2			Corrupt	S	Draw 2 Cards, Put a Lone Doll into your opponent's field.	
 Emitting Terror	CORRUPT	C-11	C-11	Ritual		[C][C][C]	3			Corrupt	R	Puppet spirits gain +1/0. |Non-Puppet spirit gains 0/-1.	
+Jeanne, Holy Saint	HOLY	H-01	H-01	ESPER	HUMAN/SAINT	0	0	0	0	HOLY	ER	Guard spirit gain 0/+1. | When your soul is 15 or less,  you can't take more than 6 damage from opponent spirit
+Defense Troop	HOLY	H-02	H-02	SPIRIT	HUMAN	[H]	1	2	5	HOLY	C	At the end of your turn, if this spirit is exhausted, you can siege this spirit.
+Troop Supporter	HOLY	H-03	H-03	SPIRIT	HUMAN	[H]	1	3	3	HOLY	U	[Opponent turn][Weaken][Sacrifice this spirit] Refresh target spirit you control
+Holy Defender	HOLY	H-04	H-04	SPIRIT	HUMAN	[H][H]	2	0	7	HOLY	C	[Guard] Your opponent can only target this card for attack, power, or spell.
+Griffin	HOLY	H-05	H-05	SPIRIT	MYTHICAL BEAST	[H][1]	2	5	4	HOLY	SR	[Intimidator] | [Spirit Link] 4H, Esper with name Jeanne: All spirit your opponent currently control gain -1/-1, Transform this card into Kirin 
+Kirin	HOLY	H-05L	H-05L	SPIRIT	MYTHICAL BEAST	[H][H][H][H][H][H]	6	12	12	HOLY	SR	[Intimidator] | [End of Turn] Target 1 spirit you control other than this card, gain +1/+1
+Temple Guardian	HOLY	H-06	H-06	SPIRIT	MYTHICAL STATUE	[H][H][2]	4	8	8	HOLY	R	[Enter] Until end of next turn, any spirit's enter power doesn't active.
+Spiritcaller Sister	HOLY	H-07	H-07	SPIRIT	HUMAN	[H][2]	3	6	7	HOLY	C	At the end turn after this spirit is played, add a Holy spirit with total cost 1 from your deck.
+Blessed Chimera	HOLY	H-08	H-08	SPIRIT	MYTHICAL BEAST	[H][H][1]	3	8	1	HOLY	R	[Dominator][Agile][Absorb]
+Saint's Protection	HOLY	H-09	H-09	SPELL	-	[H][H]	2	-	-	HOLY	U	[Interrupt] | [choose 1] target spirit gain eternal until the end of this turn or heal 2 life of target esper/spirit
+Holy Water	HOLY	H-10	H-10	SPELL	-	[H]	1	-	-	HOLY	C	Draw 1 card, heal 2 life
+Royal Castle	HOLY	H-11	H-11	RITUAL	-	[H][2]	3	-	-	HOLY	C	Guard spirit you control gain 0/+1 | Whenever your spirit attack, that spirit gain +2/0 until the end of turn | Any heal that opponent taken, become damage instead
 Holy	ORBS	holy	holy	Orbs	-	-	-	-	-	Holy	-	-	
 Corrupt	ORBS	corrupt	corrupt	Orbs	-	-	-	-	-	Corrupt	-	-	
 Gaia	ORBS	gaia	gaia	Orbs	-	-	-	-	-	Gaia	-	-	
