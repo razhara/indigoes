@@ -89,5 +89,5 @@ Gretel	FANTASY	F-06	F-06	Spirit	Fairy Tale/Children	[F]	1	3	3	Fantasy	2	This Car
 Big Blower Wolf	FANTASY	F-07	F-07	Spirit	Fairy Tale/Wolf	[F][F][F][F]	4	10	10	Fantasy	2	[Once per Turn]Return a spirit  you control with total cost 2 or less to owner's hand: This card gains 0/+1, if that spirit trait is Little Pig gains +1/0	
 Witch of Cake House	FANTASY	F-08	F-08	Spirit	Fairy Tale/Witch	[F][F][F]	3	6	7	Fantasy	2	This card gains +1/+1 for each Children spirit with different name. |If you control three or more Children spirit this card gains Dominator.	
 Welcome to Fantasy	FANTASY	F-09	F-09	Spell		[F]	1			Fantasy	2	Search your deck for a Fantasy spirit with total cost 1 and add it into your hand.	
-Dreamy Illusion	FANTASY	F-10	F-10	Spell		[F][X]	1			Fantasy	2	Return target spirit with total cost X or less into owner's hand. 	
+Dreamy Illusion	FANTASY	F-10	F-10	Spell		[F][X]	1			Fantasy	2	Interrupt| Return target spirit with total cost X or less into owner's hand. 	
 Infinite Cake!!	FANTASY	F-11	F-11	Ritual		[F][F]	2			Fantasy	2	Whenever you add a card from your deck to your hand->restore 1 soul	
