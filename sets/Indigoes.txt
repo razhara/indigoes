@@ -1,4 +1,4 @@
-﻿Name	Set	ImageFile	SetID	Type	Trait	Cost	T.Cost	ATK	DEF	Dogma	Rarity	Cardtext	Script
+Name	Set	ImageFile	SetID	Type	Trait	Cost	T.Cost	ATK	DEF	Dogma	Rarity	Cardtext	Script
 Elf 1	NEUTRAL	Elf 1	Elf 1	SPIRIT	Elf	[1]	1	4	4	Neutral			
 Elf 2	NEUTRAL	Elf 2	Elf 2	SPIRIT	Elf	[1]	1	2	6	Neutral			
 Elf 3	NEUTRAL	Elf 3	Elf 3	SPIRIT	Elf	[2]	2	7	5	Neutral			
@@ -30,25 +30,25 @@ Guardian Golem	COSMOS	O-04	O-04	Spirit	Golem	[O][O]	2	7	6	Cosmos	C
 Sacrificial Maiden	COSMOS	O-05	O-05	Spirit	Human	[O][O]	2	3	3	Cosmos	R	Enter, target other spirit -> Weaken that spirit It doesn't refresh during the replenish phase as long as this card is in the field.	
 Mayan Commander	COSMOS	O-06	O-06	Spirit	Human	[O][O][O]	3	5	6	Cosmos	R	Whenever this card attacks, reveal the top card of your deck -> If it's a spirit, spirits you control gain [+2/+2]. Otherwise, return this card to its owner's hand.	
 Protector of the Mayan	COSMOS	O-07	O-07	Spirit	Golem	[O][O][O]	3	5	10	Cosmos	U	Interrupt | [At your opponent turn] Enter -> Reveal the top card of your deck. If it's not a spirit, return this card to its owner's hand.	
-Nostradamus, First Star Reader	COSMOS	O-08	O-08	Spirit	Human	[O][O][O][O]	4	8	8	Cosmos	SR	Enter, reveal the top card of your deck -> If it's a spirit with total cost 3 or less, put it on your field it can't attack the turn that card summoned this way. | [Spirit Link] Esper with "Maya" on its name, [O][O][O][O]: Transform this card into "Nostradamus, Creator of Fate"	
+Nostradamus, First Star Reader	COSMOS	O-08	O-08	Spirit	Human	[O][O][O][O]	4	8	8	Cosmos	SR	"Enter, reveal the top card of your deck -> If it's a spirit with total cost 3 or less, put it on your field it can't attack the turn that card summoned this way. | [Spirit Link] Esper with ""Maya"" on its name, [O][O][O][O]: Transform this card into ""Nostradamus, Creator of Fate"""	
 Future Prediction	COSMOS	O-09	O-09	Spell		[O]	1			Cosmos	U	Look at the top two cards of your deck and put them back in any order.	
 Fast Forward	COSMOS	O-10	O-10	Spell		[O][O]	2			Cosmos	U	Interrupt | Weaken target spirit.	
 Book of Fortune Telling	COSMOS	O-11	O-11	Ritual		[O][O]	2			Cosmos	R	Enter, Sacrifice other Book of Fortune Telling you control -> Draw a card. | Weaken -> Put the top card of your main on the bottom of your main deck.	
 Nostradamus, Creator of Fate	COSMOS	O-08L	O-08L	Linked Spirit	Human / Fortune Teller	[O][O][O][O][O][O][O][O]	8	14	14	Cosmos	SR	When this card transform succesfully, reveal the top 5 cards of your deck. Put all non-spell cards with different name with cost 4 or less from among them into the field and the rest into your Elysium. Those cards can't attack the turn those card summoned this way.	
-The Dusk Puppeteer, Derry	CORRUPT	C-01	C-02	Esper	Puppeteer		0			Corrupt	E	[Once per turn] Target a spirit with changed atk/def: it gains +1/0 or 0/-1 of your choice.| [30/less][Once per Turn] [C][C]: Put a Lone Doll into your field.| [20/less][Once per Turn, Only your turn]Sacrifice a Puppet, Target a spirit: that spirit gains -X/-X where X is the sacrificed Puppet's Atk.| [10/less][Once per game]Pay X, target spirit with cost X: Gain Control of that spirit, add puppet to it's trait, it loses all power, it gains +2/+2, and refresh it	
+The Dusk Puppeteer, Derry	CORRUPT	C-01	C-02	Esper	Puppeteer		0			Corrupt	E	[Once per turn] Target a spirit with changed atk/def: it gains +1/0 or 0/-1 of your choice.| [6 or more Orbs]Whenever a Puppet spirit enter your fields, target a spirit->it gains 0/-2.	
 Lone Doll	CORRUPT	C-T01	C-T02	Spirit	Puppet	[C]	1	2	2	Corrupt	S		
 Puppet Soldier	CORRUPT	C-02	C-02	Spirit	Puppet	[C]	1	5	3	Corrupt	S		
 Omnious Teddy	CORRUPT	C-03	C-03	Spirit	Puppet	[C]	1	2	1	Corrupt	S	Enter, Target a spirit-> it gains -2/-2 until end or turn.	
 Abandonded Scarecrow	CORRUPT	C-04	C-04	Spirit	Puppet	[C][C]	2	6	3	Corrupt	S	Intimidator	
-Puppet Keeper	CORRUPT	C-05	C-05	Spirit	Human	[C][C]	2	4	7	Corrupt	S	Enter, target a puppet with cost 4 or less in your Elysium->put it into your hand	
+Puppet Keeper	CORRUPT	C-05	C-05	Spirit	Human	[C][C]	2	4	7	Corrupt	S	Enter, target a puppet with cost 3 or less in your Elysium->put it into your hand	
 Violent Puppet	CORRUPT	C-06	C-06	Spirit	Puppet	[C][C][C]	3	10	5	Corrupt	S	Dominator | When this card attacks player or guard spirit-> this card gains -3/0	
 Vengeful Doll	CORRUPT	C-07	C-07	Spirit	Puppet	[C][C][C]	3	6	6	Corrupt	S	When this card is sent into Elysium from the field, target a spirit-> it gains 0/-4	
-Annabelle, Contained Nightmare	CORRUPT	C-08	C-08	Spirit	Puppet	[C][C][C][C]	4	10	10	Corrupt	S	Enter, target a guard spirit-> weaken it.| Whenever this card destroy a spirit->this card gains +1/+1 until this card leaves the field.| [Spirit Link] Puppeteer Esper, [C][C][C]: Transform this card into "Annabelle, Leaked Nightmare".	
+Annabelle, Contained Nightmare	CORRUPT	C-08	C-08	Spirit	Puppet	[C][C][C][C]	4	10	10	Corrupt	S	"Enter, target a guard spirit-> weaken it.| Whenever this card destroy a spirit->this card gains +1/+1 until this card leaves the field.| [Spirit Link] Puppeteer Esper, [C][C][C]: Transform this card into ""Annabelle, Leaked Nightmare""."	
 Annabelle, Leaked Nightmare	CORRUPT	C-08L	C-08L	Linked Spirit	Puppet	[C][C][C][C][C][C][C]	7	14	14	Corrupt	S	Dominator| When this card transform succesfully, target a spirit-> You may destroy it.| Whenever this card destroy a spirit->this card gains +1/+1 until this card leaves the field	
 Make it Doll	CORRUPT	C-09	C-09	Spell		[C][C][C][C][C]	5			Corrupt	S	Target spirit gains -10/-10. This turn, if that spirit is destroyed-> put a Lone Doll into your field.	
 Doll Deal	CORRUPT	C-10	C-10	Spell		[C][C]	2			Corrupt	S	Draw 2 Cards, Put a Lone Doll into your opponent's field.	
 Emitting Terror	CORRUPT	C-11	C-11	Ritual		[C][C][C]	3			Corrupt	R	Puppet spirits gain +1/0. |Non-Puppet spirit gains 0/-1.	
-Jeanne, Holy Saint	HOLY	H-01	H-01	ESPER	HUMAN/SAINT	0	0	0	0	HOLY	ER	Guard spirit gain 0/+1. | When your soul is 15 or less,  you can't take more than 6 damage from opponent spirit	
+Jeanne, Holy Saint	HOLY	H-01	H-01	ESPER	HUMAN/SAINT	0	0	0	0	HOLY	ER	Guard spirit gain 0/+1. | When your soul is 15 or less, ?you can't take more than 6 damage from opponent spirit	
 Defense Troop	HOLY	H-02	H-02	SPIRIT	HUMAN	[H]	1	2	5	HOLY	C	At the end of your turn, if this spirit is exhausted, you can siege this spirit.	
 Troop Supporter	HOLY	H-03	H-03	SPIRIT	HUMAN	[H]	1	3	3	HOLY	U	[Opponent turn][Weaken][Sacrifice this spirit] Refresh target spirit you control	
 Holy Defender	HOLY	H-04	H-04	SPIRIT	HUMAN	[H][H]	2	0	7	HOLY	C	[Guard] Your opponent can only target this card for attack, power, or spell.	
@@ -79,3 +79,15 @@ Bouquete Maker Elf	GAIA	G-08	G-08	Spirit	Elf	[G][G][2]	4	8	10	Gaia	S	Enter->Sear
 Gathering Scattered Petals	GAIA	G-09	G-09	Spell		[G][G]	2	0	0	Gaia	S	[a flower spirit has been destroyed this turn] draw two cards, restore 1 soul.	
 Grand Harvest	GAIA	G-10	G-10	Ritual		[G][G][2]	4	0	0	Gaia	R	At the start of each player turn-> put a Rose Petals in Guard Position into turn player's field for each non-flower spirits their opponent control, then substract the seal from this card equal to the number of Rose Petals put this way |When this card's seal become 0->your flower spirits gain +0/+1 until end of turn then destroy this card	
 Rose Petals	GAIA	G-10.1	G-10.1	Spirit	Flower,Token	[G]	1	1	1	Gaia	T	-	
+Rina, Mirror Sorcerer	FANTASY	F-01	F-01	Esper	Conjurer					Fantasy	2	Spirits you control with same name gains +1/+1.| [25 or less deck][Once per turn, only your turn]FF,weaken 2 cards with same name:draw a card.| [15 or less deck][Once per turn, only your turn]F+X,target spirit you control cost X: Create a Copy of that spirit with 1 Def, expel it at the end of turn.	
+Little Pig of Straw	FANTASY	F-02	F-02	Spirit	Fairy Tale/Little Pigs	[F]	1	3	5	Fantasy	2		
+Little Pig of Wood	FANTASY	F-03	F-03	Spirit	Fairy Tale/Little Pigs	[F][F]	2	4	7	Fantasy	2	Enter-> Search a Little Pig spirit with total cost 1 or less from your deck and put it into your hand.	
+Little Pig of Brick	FANTASY	F-04	F-04	Spirit	Fairy Tale/Little Pigs	[F][F][F]	3	5	8	Fantasy	2	Enter-> Search a Little Pig spirit with total cost 2 or less from your deck and put it into your hand.| Other Little Pigs you control gains 0/+2	
+Hansel	FANTASY	F-05	F-05	Spirit	Fairy Tale/Children	[F][F]	2	6	6	Fantasy	2	"Enter-> Search your deck for a card named Gretel and put it into your hand.| [Spirit Link] You Control a Gretel, pay 4F: Transform this card into ""Hansel, the Reliable Brother"""	
+Hansel, the Reliable Brother	FANTASY	F-L05	F-L06	Linked Spirit	Fairy Tale/Children	[F][F][F][F][F][F]	6	12	12	Fantasy	2	When Transform Succesfully-> Draw a Card.|Gretel you Control gains +4/+4 and Imunity	
+Gretel	FANTASY	F-06	F-06	Spirit	Fairy Tale/Children	[F]	1	3	3	Fantasy	2	This Card gains +1/+1 for each card with 'Hansel' you control	
+Big Blower Wolf	FANTASY	F-07	F-07	Spirit	Fairy Tale/Wolf	[F][F][F][F]	4	10	10	Fantasy	2	[Once per Turn]Return a spirit  you control with total cost 2 or less to owner's hand: This card gains 0/+1, if that spirit trait is Little Pig gains +1/0	
+Witch of Cake House	FANTASY	F-08	F-08	Spirit	Fairy Tale/Witch	[F][F][F]	3	6	7	Fantasy	2	This card gains +1/+1 for each Children spirit with different name. |If you control three or more Children spirit this card gains Dominator.	
+Welcome to Fantasy	FANTASY	F-09	F-09	Spell		[F]	1			Fantasy	2	Search your deck for a Fantasy spirit with total cost 1 and add it into your hand.	
+Dreamy Illusion	FANTASY	F-10	F-10	Spell		[F][X]	1			Fantasy	2	Return target spirit with total cost X or less into owner's hand. 	
+Infinite Cake!!	FANTASY	F-11	F-11	Ritual		[F][F]	2			Fantasy	2	Whenever you add a card from your deck to your hand->restore 1 soul	
