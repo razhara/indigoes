@@ -80,7 +80,7 @@ Dreamy Illusion	FANTASY	F-10	F-10	Spell		[F][X]	1			Fantasy	2	Interrupt| Return 
 Infinite Cake!!	FANTASY	F-11	F-11	Ritual		[F][F]	2			Fantasy	2	Whenever you add a card from your deck to your hand->restore 1 soul	
 Pricia Nature speaker	Gaia	G-01	G-01	Esper	Human		0			Gaia	2	Spirit with highest attack both player control gain +1/+1.| [total attack spirit you control 20 or more] [Once per turn] G target spirit you control gain +2/-2.|[total attack spirit you control 30 or more] [Once per turn] G+1 sacrice spirit you control, target spirit gain attack equal to the sacrificed spirit attack.	
 Elf spirit	Gaia	G-02	G-02	SPIRIT	Elf	[G]	1	2	2	Gaia	2	During your turn,weaken this card and sacrifice it target Beast you control gain +4/+4.	
-Wild Tiger	Gaia	G-03	G-03	SPIRIT	Beast	[G]	1	6	6	Gaia	2	This card cannot attack and cannot be put into guard position| When another spirit you control sent to elysium because of battle this turn, this card can attack.	
+Wild Tiger	Gaia	G-03	G-03	SPIRIT	Beast	[G]	1	4	4	Gaia	2		
 Spirit Caller Elf	Gaia	G-04	G-04	SPIRIT	Elf	[G][G]	2	5	5	Gaia	2	"When this card is sent to elysium -> put ""mana"" to your hand."	
 Mana	Gaia	G-T01	G-T01	Spell		[0]	0			Gaia	2	You gain 1 gaia aura. you can only use this card once per turn.	
 Dire Wolf	Gaia	G-05	G-05	SPIRIT	Beast	[G][G]	2	6	6	Gaia	2	if this card would be dealt damage gain -X/-X , where X is the damage that would be dealt.| At the end of damage step after this card attack opponent spirit, summon a copy of this card with the same Attack and Defend rested.	
