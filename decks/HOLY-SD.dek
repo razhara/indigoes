@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>indigoes</game>
+	</meta>
+	<superzone name="Esper">
+		<card><name id="H-01">Jeanne, Holy Saint</name><set>HOLY</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="H-02">Defense Troop</name><set>HOLY</set></card>
+		<card><name id="H-02">Defense Troop</name><set>HOLY</set></card>
+		<card><name id="H-02">Defense Troop</name><set>HOLY</set></card>
+		<card><name id="H-02">Defense Troop</name><set>HOLY</set></card>
+		<card><name id="H-03">Troop Supporter</name><set>HOLY</set></card>
+		<card><name id="H-03">Troop Supporter</name><set>HOLY</set></card>
+		<card><name id="H-03">Troop Supporter</name><set>HOLY</set></card>
+		<card><name id="H-03">Troop Supporter</name><set>HOLY</set></card>
+		<card><name id="H-04">Holy Defender</name><set>HOLY</set></card>
+		<card><name id="H-04">Holy Defender</name><set>HOLY</set></card>
+		<card><name id="H-04">Holy Defender</name><set>HOLY</set></card>
+		<card><name id="H-04">Holy Defender</name><set>HOLY</set></card>
+		<card><name id="H-05">Griffin</name><set>HOLY</set></card>
+		<card><name id="H-05">Griffin</name><set>HOLY</set></card>
+		<card><name id="H-05">Griffin</name><set>HOLY</set></card>
+		<card><name id="H-05">Griffin</name><set>HOLY</set></card>
+		<card><name id="H-06">Temple Guardian</name><set>HOLY</set></card>
+		<card><name id="H-06">Temple Guardian</name><set>HOLY</set></card>
+		<card><name id="H-06">Temple Guardian</name><set>HOLY</set></card>
+		<card><name id="H-06">Temple Guardian</name><set>HOLY</set></card>
+		<card><name id="H-07">Spiritcaller Sister</name><set>HOLY</set></card>
+		<card><name id="H-07">Spiritcaller Sister</name><set>HOLY</set></card>
+		<card><name id="H-07">Spiritcaller Sister</name><set>HOLY</set></card>
+		<card><name id="H-07">Spiritcaller Sister</name><set>HOLY</set></card>
+		<card><name id="H-08">Blessed Chimera</name><set>HOLY</set></card>
+		<card><name id="H-08">Blessed Chimera</name><set>HOLY</set></card>
+		<card><name id="H-08">Blessed Chimera</name><set>HOLY</set></card>
+		<card><name id="H-08">Blessed Chimera</name><set>HOLY</set></card>
+		<card><name id="H-09">Saint&apos;s Protection</name><set>HOLY</set></card>
+		<card><name id="H-09">Saint&apos;s Protection</name><set>HOLY</set></card>
+		<card><name id="H-09">Saint&apos;s Protection</name><set>HOLY</set></card>
+		<card><name id="H-09">Saint&apos;s Protection</name><set>HOLY</set></card>
+		<card><name id="H-10">Holy Water</name><set>HOLY</set></card>
+		<card><name id="H-10">Holy Water</name><set>HOLY</set></card>
+		<card><name id="H-10">Holy Water</name><set>HOLY</set></card>
+		<card><name id="H-10">Holy Water</name><set>HOLY</set></card>
+		<card><name id="H-11">Royal Castle</name><set>HOLY</set></card>
+		<card><name id="H-11">Royal Castle</name><set>HOLY</set></card>
+		<card><name id="H-11">Royal Castle</name><set>HOLY</set></card>
+		<card><name id="H-11">Royal Castle</name><set>HOLY</set></card>
+	</superzone>
+	<superzone name="Orbs">
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+		<card><name id="holy">Holy</name><set>ORBS</set></card>
+	</superzone>
+	<superzone name="Tokens">
+		<card><name id="H-05L">Kirin</name><set>HOLY</set></card>
+	</superzone>
+</deck>

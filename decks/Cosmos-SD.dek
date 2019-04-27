@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>indigoes</game>
+	</meta>
+	<superzone name="Esper">
+		<card><name id="O-01">Fortune Teller, Maya</name><set>COSMOS</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="O-02">Star Reader</name><set>COSMOS</set></card>
+		<card><name id="O-02">Star Reader</name><set>COSMOS</set></card>
+		<card><name id="O-02">Star Reader</name><set>COSMOS</set></card>
+		<card><name id="O-02">Star Reader</name><set>COSMOS</set></card>
+		<card><name id="O-03">Magician of Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-03">Magician of Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-03">Magician of Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-03">Magician of Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-04">Guardian Golem</name><set>COSMOS</set></card>
+		<card><name id="O-04">Guardian Golem</name><set>COSMOS</set></card>
+		<card><name id="O-04">Guardian Golem</name><set>COSMOS</set></card>
+		<card><name id="O-04">Guardian Golem</name><set>COSMOS</set></card>
+		<card><name id="O-05">Sacrificial Maiden</name><set>COSMOS</set></card>
+		<card><name id="O-05">Sacrificial Maiden</name><set>COSMOS</set></card>
+		<card><name id="O-05">Sacrificial Maiden</name><set>COSMOS</set></card>
+		<card><name id="O-05">Sacrificial Maiden</name><set>COSMOS</set></card>
+		<card><name id="O-06">Mayan Commander</name><set>COSMOS</set></card>
+		<card><name id="O-06">Mayan Commander</name><set>COSMOS</set></card>
+		<card><name id="O-06">Mayan Commander</name><set>COSMOS</set></card>
+		<card><name id="O-06">Mayan Commander</name><set>COSMOS</set></card>
+		<card><name id="O-07">Protector of the Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-07">Protector of the Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-07">Protector of the Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-07">Protector of the Mayan</name><set>COSMOS</set></card>
+		<card><name id="O-09">Future Prediction</name><set>COSMOS</set></card>
+		<card><name id="O-09">Future Prediction</name><set>COSMOS</set></card>
+		<card><name id="O-09">Future Prediction</name><set>COSMOS</set></card>
+		<card><name id="O-09">Future Prediction</name><set>COSMOS</set></card>
+		<card><name id="O-10">Fast Forward</name><set>COSMOS</set></card>
+		<card><name id="O-10">Fast Forward</name><set>COSMOS</set></card>
+		<card><name id="O-10">Fast Forward</name><set>COSMOS</set></card>
+		<card><name id="O-10">Fast Forward</name><set>COSMOS</set></card>
+		<card><name id="O-11">Book of Fortune Telling</name><set>COSMOS</set></card>
+		<card><name id="O-11">Book of Fortune Telling</name><set>COSMOS</set></card>
+		<card><name id="O-11">Book of Fortune Telling</name><set>COSMOS</set></card>
+		<card><name id="O-11">Book of Fortune Telling</name><set>COSMOS</set></card>
+		<card><name id="O-08">Nostradamus, First Star Reader</name><set>COSMOS</set></card>
+		<card><name id="O-08">Nostradamus, First Star Reader</name><set>COSMOS</set></card>
+		<card><name id="O-08">Nostradamus, First Star Reader</name><set>COSMOS</set></card>
+		<card><name id="O-08">Nostradamus, First Star Reader</name><set>COSMOS</set></card>
+	</superzone>
+	<superzone name="Orbs">
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+		<card><name id="cosmos">Cosmos</name><set>ORBS</set></card>
+	</superzone>
+	<superzone name="Tokens">
+		<card><name id="O-08L">Nostradamus, Creator of Fate</name><set>COSMOS</set></card>
+	</superzone>
+</deck>

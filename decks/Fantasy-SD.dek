@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>indigoes</game>
+	</meta>
+	<superzone name="Esper">
+		<card><name id="F-01">Rina, Mirror Sorcerer</name><set>FANTASY</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="F-02">Little Pig of Straw</name><set>FANTASY</set></card>
+		<card><name id="F-02">Little Pig of Straw</name><set>FANTASY</set></card>
+		<card><name id="F-02">Little Pig of Straw</name><set>FANTASY</set></card>
+		<card><name id="F-02">Little Pig of Straw</name><set>FANTASY</set></card>
+		<card><name id="F-03">Little Pig of Wood</name><set>FANTASY</set></card>
+		<card><name id="F-03">Little Pig of Wood</name><set>FANTASY</set></card>
+		<card><name id="F-03">Little Pig of Wood</name><set>FANTASY</set></card>
+		<card><name id="F-03">Little Pig of Wood</name><set>FANTASY</set></card>
+		<card><name id="F-04">Little Pig of Brick</name><set>FANTASY</set></card>
+		<card><name id="F-04">Little Pig of Brick</name><set>FANTASY</set></card>
+		<card><name id="F-04">Little Pig of Brick</name><set>FANTASY</set></card>
+		<card><name id="F-04">Little Pig of Brick</name><set>FANTASY</set></card>
+		<card><name id="F-05">Hansel</name><set>FANTASY</set></card>
+		<card><name id="F-05">Hansel</name><set>FANTASY</set></card>
+		<card><name id="F-05">Hansel</name><set>FANTASY</set></card>
+		<card><name id="F-05">Hansel</name><set>FANTASY</set></card>
+		<card><name id="F-06">Gretel</name><set>FANTASY</set></card>
+		<card><name id="F-06">Gretel</name><set>FANTASY</set></card>
+		<card><name id="F-06">Gretel</name><set>FANTASY</set></card>
+		<card><name id="F-06">Gretel</name><set>FANTASY</set></card>
+		<card><name id="F-07">Big Blower Wolf</name><set>FANTASY</set></card>
+		<card><name id="F-07">Big Blower Wolf</name><set>FANTASY</set></card>
+		<card><name id="F-07">Big Blower Wolf</name><set>FANTASY</set></card>
+		<card><name id="F-07">Big Blower Wolf</name><set>FANTASY</set></card>
+		<card><name id="F-08">Witch of Cake House</name><set>FANTASY</set></card>
+		<card><name id="F-08">Witch of Cake House</name><set>FANTASY</set></card>
+		<card><name id="F-08">Witch of Cake House</name><set>FANTASY</set></card>
+		<card><name id="F-08">Witch of Cake House</name><set>FANTASY</set></card>
+		<card><name id="F-09">Welcome to Fantasy</name><set>FANTASY</set></card>
+		<card><name id="F-09">Welcome to Fantasy</name><set>FANTASY</set></card>
+		<card><name id="F-09">Welcome to Fantasy</name><set>FANTASY</set></card>
+		<card><name id="F-09">Welcome to Fantasy</name><set>FANTASY</set></card>
+		<card><name id="F-10">Dreamy Illusion</name><set>FANTASY</set></card>
+		<card><name id="F-10">Dreamy Illusion</name><set>FANTASY</set></card>
+		<card><name id="F-10">Dreamy Illusion</name><set>FANTASY</set></card>
+		<card><name id="F-10">Dreamy Illusion</name><set>FANTASY</set></card>
+		<card><name id="F-11">Infinite Cake!!</name><set>FANTASY</set></card>
+		<card><name id="F-11">Infinite Cake!!</name><set>FANTASY</set></card>
+		<card><name id="F-11">Infinite Cake!!</name><set>FANTASY</set></card>
+		<card><name id="F-11">Infinite Cake!!</name><set>FANTASY</set></card>
+	</superzone>
+	<superzone name="Orbs">
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+		<card><name id="fantasy">Fantasy</name><set>ORBS</set></card>
+	</superzone>
+	<superzone name="Tokens">
+		<card><name id="F-05L">Hansel, the Reliable Brother</name><set>FANTASY</set></card>
+	</superzone>
+</deck>

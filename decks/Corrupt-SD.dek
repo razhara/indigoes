@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<game>indigoes</game>
+	</meta>
+	<superzone name="Esper">
+		<card><name id="C-01">The Dusk Puppeteer, Derry</name><set>CORRUPT</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="C-03">Omnious Teddy</name><set>CORRUPT</set></card>
+		<card><name id="C-03">Omnious Teddy</name><set>CORRUPT</set></card>
+		<card><name id="C-03">Omnious Teddy</name><set>CORRUPT</set></card>
+		<card><name id="C-03">Omnious Teddy</name><set>CORRUPT</set></card>
+		<card><name id="C-02">Puppet Soldier</name><set>CORRUPT</set></card>
+		<card><name id="C-02">Puppet Soldier</name><set>CORRUPT</set></card>
+		<card><name id="C-02">Puppet Soldier</name><set>CORRUPT</set></card>
+		<card><name id="C-02">Puppet Soldier</name><set>CORRUPT</set></card>
+		<card><name id="C-04">Abandonded Scarecrow</name><set>CORRUPT</set></card>
+		<card><name id="C-04">Abandonded Scarecrow</name><set>CORRUPT</set></card>
+		<card><name id="C-04">Abandonded Scarecrow</name><set>CORRUPT</set></card>
+		<card><name id="C-04">Abandonded Scarecrow</name><set>CORRUPT</set></card>
+		<card><name id="C-10">Doll Deal</name><set>CORRUPT</set></card>
+		<card><name id="C-10">Doll Deal</name><set>CORRUPT</set></card>
+		<card><name id="C-10">Doll Deal</name><set>CORRUPT</set></card>
+		<card><name id="C-10">Doll Deal</name><set>CORRUPT</set></card>
+		<card><name id="C-05">Puppet Keeper</name><set>CORRUPT</set></card>
+		<card><name id="C-05">Puppet Keeper</name><set>CORRUPT</set></card>
+		<card><name id="C-05">Puppet Keeper</name><set>CORRUPT</set></card>
+		<card><name id="C-05">Puppet Keeper</name><set>CORRUPT</set></card>
+		<card><name id="C-11">Emitting Terror</name><set>CORRUPT</set></card>
+		<card><name id="C-11">Emitting Terror</name><set>CORRUPT</set></card>
+		<card><name id="C-11">Emitting Terror</name><set>CORRUPT</set></card>
+		<card><name id="C-11">Emitting Terror</name><set>CORRUPT</set></card>
+		<card><name id="C-07">Vengeful Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-07">Vengeful Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-07">Vengeful Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-07">Vengeful Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-06">Violent Puppet</name><set>CORRUPT</set></card>
+		<card><name id="C-06">Violent Puppet</name><set>CORRUPT</set></card>
+		<card><name id="C-06">Violent Puppet</name><set>CORRUPT</set></card>
+		<card><name id="C-06">Violent Puppet</name><set>CORRUPT</set></card>
+		<card><name id="C-09">Make it Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-09">Make it Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-09">Make it Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-09">Make it Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-08">Annabelle, Contained Nightmare</name><set>CORRUPT</set></card>
+		<card><name id="C-08">Annabelle, Contained Nightmare</name><set>CORRUPT</set></card>
+		<card><name id="C-08">Annabelle, Contained Nightmare</name><set>CORRUPT</set></card>
+		<card><name id="C-08">Annabelle, Contained Nightmare</name><set>CORRUPT</set></card>
+	</superzone>
+	<superzone name="Orbs">
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+		<card><name id="corrupt">Corrupt</name><set>ORBS</set></card>
+	</superzone>
+	<superzone name="Tokens">
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-T01">Lone Doll</name><set>CORRUPT</set></card>
+		<card><name id="C-08L">Annabelle, Leaked Nightmare</name><set>CORRUPT</set></card>
+	</superzone>
+</deck>

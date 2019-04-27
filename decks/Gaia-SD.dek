@@ -1,0 +1,79 @@
+<deck version="0.8">
+	<meta>
+		<game>indigoes</game>
+	</meta>
+	<superzone name="Esper">
+		<card><name id="G-01">Pricia Nature speaker</name><set>Gaia</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="G-02">Elf spirit</name><set>Gaia</set></card>
+		<card><name id="G-02">Elf spirit</name><set>Gaia</set></card>
+		<card><name id="G-02">Elf spirit</name><set>Gaia</set></card>
+		<card><name id="G-02">Elf spirit</name><set>Gaia</set></card>
+		<card><name id="G-03">Wild Tiger</name><set>Gaia</set></card>
+		<card><name id="G-03">Wild Tiger</name><set>Gaia</set></card>
+		<card><name id="G-03">Wild Tiger</name><set>Gaia</set></card>
+		<card><name id="G-03">Wild Tiger</name><set>Gaia</set></card>
+		<card><name id="G-04">Spirit Caller Elf</name><set>Gaia</set></card>
+		<card><name id="G-04">Spirit Caller Elf</name><set>Gaia</set></card>
+		<card><name id="G-04">Spirit Caller Elf</name><set>Gaia</set></card>
+		<card><name id="G-04">Spirit Caller Elf</name><set>Gaia</set></card>
+		<card><name id="G-05">Dire Wolf</name><set>Gaia</set></card>
+		<card><name id="G-05">Dire Wolf</name><set>Gaia</set></card>
+		<card><name id="G-05">Dire Wolf</name><set>Gaia</set></card>
+		<card><name id="G-05">Dire Wolf</name><set>Gaia</set></card>
+		<card><name id="G-06">Rampaging Turtle</name><set>Gaia</set></card>
+		<card><name id="G-06">Rampaging Turtle</name><set>Gaia</set></card>
+		<card><name id="G-06">Rampaging Turtle</name><set>Gaia</set></card>
+		<card><name id="G-06">Rampaging Turtle</name><set>Gaia</set></card>
+		<card><name id="G-07">Nana nature guardian</name><set>Gaia</set></card>
+		<card><name id="G-07">Nana nature guardian</name><set>Gaia</set></card>
+		<card><name id="G-07">Nana nature guardian</name><set>Gaia</set></card>
+		<card><name id="G-07">Nana nature guardian</name><set>Gaia</set></card>
+		<card><name id="G-08">Xing Long sacred tiger</name><set>Gaia</set></card>
+		<card><name id="G-08">Xing Long sacred tiger</name><set>Gaia</set></card>
+		<card><name id="G-08">Xing Long sacred tiger</name><set>Gaia</set></card>
+		<card><name id="G-08">Xing Long sacred tiger</name><set>Gaia</set></card>
+		<card><name id="G-09">Nature Blessing</name><set>Gaia</set></card>
+		<card><name id="G-09">Nature Blessing</name><set>Gaia</set></card>
+		<card><name id="G-09">Nature Blessing</name><set>Gaia</set></card>
+		<card><name id="G-09">Nature Blessing</name><set>Gaia</set></card>
+		<card><name id="G-10">Sharp Claw</name><set>Gaia</set></card>
+		<card><name id="G-10">Sharp Claw</name><set>Gaia</set></card>
+		<card><name id="G-10">Sharp Claw</name><set>Gaia</set></card>
+		<card><name id="G-10">Sharp Claw</name><set>Gaia</set></card>
+		<card><name id="G-11">Sanctuary of the King</name><set>Gaia</set></card>
+		<card><name id="G-11">Sanctuary of the King</name><set>Gaia</set></card>
+		<card><name id="G-11">Sanctuary of the King</name><set>Gaia</set></card>
+		<card><name id="G-11">Sanctuary of the King</name><set>Gaia</set></card>
+	</superzone>
+	<superzone name="Orbs">
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+		<card><name id="gaia">Gaia</name><set>ORBS</set></card>
+	</superzone>
+	<superzone name="Tokens">
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-T01">Mana</name><set>Gaia</set></card>
+		<card><name id="G-08L">Xing Long the King</name><set>Gaia</set></card>
+	</superzone>
+</deck>
