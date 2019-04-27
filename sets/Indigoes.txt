@@ -90,5 +90,5 @@ Xing Long sacred tiger	Gaia	G-08	G-08	SPIRIT	Beast	[G][G][G][G]	4	10	8	Gaia	2	"[
 Xing Long the King	Gaia	G-08L	G-08L	SPIRIT	Beast	[G][G][G][G][G][G][G][G][G][G]	10	16	16	Gaia	2	[Enter]this card and target Spirit your opponent controls deal damage equal to their ATK to each other.| [Once per turn] When this card is dealt damage, gain +2/0 at the end of damage step.	
 Nature Blessing	Gaia	G-09	G-09	Spell		[G]	1			Gaia	2	[Interupt]| [during your opponent turn] target creature gain +4/+4 until end of turn.| if that creature power is 16 or more, draw card.	
 Sharp Claw	Gaia	G-10	G-10	Spell		[G][G]	2			Gaia	2	"Target spirit you control gain +2/+4 until end of turn and gain ""this card cannot attack this turn"".| Both player spirit with highest atk deal damage equal to their attack to each other."	
-Sanctuary of the King	Gaia	G-11	G-11	Ritual		[G][G][G]	3			Gaia	2	At the start of your turn when you control Spirit with Atk 12 or more draw a card.	
+Sanctuary of the King	Gaia	G-11	G-11	Ritual		[G][G][G]	3			Gaia	2	At the start of your turn when you control Spirit with Atk 10 or more draw a card.	
 Flask of Opportunity	SCIENCE	S-T03	S-T03	Spirit	Mechanical	[S]	1	0	1	Science	C	This card cannot attack and cannot be put into guard position | When this card leave the field->restore your soul by 2	
