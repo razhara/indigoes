@@ -9,85 +9,86 @@ Elf 7	NEUTRAL	Elf 7	Elf 7	SPIRIT	Elf	[4]	4	10	10	Neutral
 Elf 8	NEUTRAL	Elf 8	Elf 8	SPIRIT	Elf	[4]	4	8	12	Neutral			
 Elf 9	NEUTRAL	Elf 9	Elf 9	SPIRIT	Elf	[5]	5	12	12	Neutral			
 Elf 10	NEUTRAL	Elf 10	Elf 10	SPIRIT	Elf	[1]	1	6	2	Neutral			
-Inoe	SCIENCE	S-01	S-01	Esper	Human/Mechanical	0	0	0	0	Science	ER	Basic Ability: [Once per turn, during your turn] Expel 3 mechanical cards in your Elysium : put a Helper Droid on the field | [20 cards in your expel zone] : [Once per turn] pay [S][S] : target spirit gains Immunity	
+Inoe	SCIENCE	S-01	S-01	Esper	Human/Mechanical	0	0	0	0	Science	ER	"Basic Ability: [Once per turn, during your turn] Expel 3 mechanical cards in your Elysium : put a Helper Droid on the field | [20 cards in your expel zone] : [Once per turn] pay [S][S] : target spirit gains Immunity"	
 Mechanic Dog	SCIENCE	S-02	S-02	Spirit	Mechanical	[S]	1	5	3	Science	C		
 Amateur Alchemist	SCIENCE	S-03	S-03	Spirit	Human	[S]	1	4	4	Science	C	When this card is put into Elysium-> put a Flask of Opportunity to the field	
-Sword Droid	SCIENCE	S-04	S-04	Spirit	Mechanical	[S][S]	2	7	5	Science	U	Exhaust this card and Shield Droid, sacrifice this card and Shield Droid : Put a Guardian Droid to the field. You can choose the position.	
-Shield Droid	SCIENCE	S-05	S-05	Spirit	Mechanical	[S][S]	2	5	7	Science	U	Exhaust this card and Sword Droid, Sacrifice this card and Sword Droid : Put a Guardian Droid to the field. You can choose the position.	
-Lena, the Android Warrior	SCIENCE	S-06	S-06	Spirit	Human/Mechanical	[S][S][S]	3	7	7	Science	SR	[Once per turn]Sacrifice a Helper Droid : this card gains +1/+1 | [Spirit Link] Mechanical Esper, [S][S][S][S] : put 2 Helper Droid to the field, then transform this card	
-Lena, the Commander of the Droid	SCIENCE	S-06L	S-06L	Linked Spirit	Human/Mechanical	[S][S][S][S][S][S][S]	7	12	12	Science	SR	[Once per turn]Sacrifice a Helper Droid : this card gains +1/+1 | [Once per turn]When a Mechanical is put into the field->put a Helper Droid to the field	
-Dino, the Ambitious Researcher	SCIENCE	S-07	S-07	Spirit	Human	[S][S][S]	3	5	9	Science	R	[There is no Flask of Opportunity on the field]Enter -> put a Flask of Opportunity to the field | [There is at least one Flask of Opportunity on the field]Enter->Sacrifice all Flask of Opportunity you control. Target spirit gains -X/0, where X is the amount of Flask of Opportunity sacrificed by this card.	
+Sword Droid	SCIENCE	S-04	S-04	Spirit	Mechanical	[S][S]	2	7	5	Science	U	"Exhaust this card and Shield Droid, sacrifice this card and Shield Droid : Put a Guardian Droid to the field. You can choose the position."	
+Shield Droid	SCIENCE	S-05	S-05	Spirit	Mechanical	[S][S]	2	5	7	Science	U	"Exhaust this card and Sword Droid, Sacrifice this card and Sword Droid : Put a Guardian Droid to the field. You can choose the position."	
+"Lena, the Android Warrior"	SCIENCE	S-06	S-06	Spirit	Human/Mechanical	[S][S][S]	3	7	7	Science	SR	"[Once per turn]Sacrifice a Helper Droid : this card gains +1/+1 | [Spirit Link] Mechanical Esper, [S][S][S][S] : put 2 Helper Droid to the field, then transform this card"	
+"Lena, the Commander of the Droid"	SCIENCE	S-06L	S-06L	Linked Spirit	Human/Mechanical	[S][S][S][S][S][S][S]	7	12	12	Science	SR	[Once per turn]Sacrifice a Helper Droid : this card gains +1/+1 | [Once per turn]When a Mechanical is put into the field->put a Helper Droid to the field	
+"Dino, the Ambitious Researcher"	SCIENCE	S-07	S-07	Spirit	Human	[S][S][S]	3	5	9	Science	R	"[There is no Flask of Opportunity on the field]Enter -> put a Flask of Opportunity to the field | [There is at least one Flask of Opportunity on the field]Enter->Sacrifice all Flask of Opportunity you control. Target spirit gains -X/0, where X is the amount of Flask of Opportunity sacrificed by this card."	
 Droid Plane	SCIENCE	S-08	S-08	Spirit	Mechanical	[S][S][S][S]	4	8	9	Science	C	Enter->put 2 Helper Droid to the field	
-Droid Construction	SCIENCE	S-09	S-09	Spell	Mechanical	[S]	2			Science	U	Draw a card, put a Helper Droid to the field. 	
+Droid Construction	SCIENCE	S-09	S-09	Spell	Mechanical	[S]	2			Science	U	"Draw a card, put a Helper Droid to the field. "	
 KAMIKAZE!	SCIENCE	S-10	S-10	Spell		[S][S]	2			Science	R	Target a Mechanical spirit you control. Then target spirit your opponent control with same cost or lower. Destroy both.	
 Surveillance Camera	SCIENCE	S-11	S-11	Ritual	Mechanical	[S][S][S]	3			Science	R	Countdown : 3 | Helper droids you control gain +1/+0 | When this card is put into Elysium->put 2 helper droids to the field	
-Helper Droid	SCIENCE	S-T01	S-T01	Spirit	Mechanical	[S]	1	1	1	Science	C	If this card would leave the field, expel this card instead	
+Helper Droid	SCIENCE	S-T01	S-T01	Spirit	Mechanical	[S]	1	1	1	Science	C	"If this card would leave the field, expel this card instead"	
 Guardian Robot	SCIENCE	S-T02	S-T02	Spirit	Mechanical	[S][S][S][S]	4	14	6	Science	U	[Guard position] this card becomes 6/14	
-Fortune Teller, Maya	COSMOS	O-01	O-01	Esper	Human	0	0	0	0	Cosmos	ER	You may look at the top card of your main deck at any time. | [30/less][Once per Turn, Only your turn] [O][O][O], Target a spirit: It doesn't refresh during the next replenish phase. | [20/less][Once per Turn] [O]: Shuffle your deck. | [10/less][Once per game] [O] + X: Search your deck for a spirit or ritual with total cost X+1 or less and put it into your field. Then shuffle your deck.	
-Star Reader	COSMOS	O-02	O-02	Spirit	Human	[O]	1	2	2	Cosmos	C	Enter -> Choose a type of card (Spirit / Chant / Ritual). Reveal the top card of your main deck, if it has the same type as what you choose before, put it into your hand.	
+"Fortune Teller, Maya"	COSMOS	O-01	O-01	Esper	Human	0	0	0	0	Cosmos	ER	"You may look at the top card of your main deck at any time. | [30/less][Once per Turn, Only your turn] [O][O][O], Target a spirit: It doesn't refresh during the next replenish phase. | [20/less][Once per Turn] [O]: Shuffle your deck. | [10/less][Once per game] [O] + X: Search your deck for a spirit or ritual with total cost X+1 or less and put it into your field. Then shuffle your deck."	
+Star Reader	COSMOS	O-02	O-02	Spirit	Human	[O]	1	2	2	Cosmos	C	"Enter -> Choose a type of card (Spirit / Chant / Ritual). Reveal the top card of your main deck, if it has the same type as what you choose before, put it into your hand."	
 Magician of Mayan	COSMOS	O-03	O-03	Spirit	Human / Magician	[O]	1	5	3	Cosmos	C		
 Guardian Golem	COSMOS	O-04	O-04	Spirit	Golem	[O][O]	2	7	6	Cosmos	C		
-Sacrificial Maiden	COSMOS	O-05	O-05	Spirit	Human	[O][O]	2	3	3	Cosmos	R	Enter, target other spirit -> Weaken that spirit It doesn't refresh during the replenish phase as long as this card is in the field.	
-Mayan Commander	COSMOS	O-06	O-06	Spirit	Human	[O][O][O]	3	5	6	Cosmos	R	Whenever this card attacks, reveal the top card of your deck -> If it's a spirit, spirits you control gain [+2/+2]. Otherwise, return this card to its owner's hand.	
-Protector of the Mayan	COSMOS	O-07	O-07	Spirit	Golem	[O][O][O]	3	5	10	Cosmos	U	Interrupt | [At your opponent turn] Enter -> Reveal the top card of your deck. If it's not a spirit, return this card to its owner's hand.	
-Nostradamus, First Star Reader	COSMOS	O-08	O-08	Spirit	Human	[O][O][O][O]	4	8	8	Cosmos	SR	"Enter, reveal the top card of your deck -> If it's a spirit with total cost 3 or less, put it on your field it can't attack the turn that card summoned this way. | [Spirit Link] Esper with ""Maya"" on its name, [O][O][O][O]: Transform this card into ""Nostradamus, Creator of Fate"""	
+Sacrificial Maiden	COSMOS	O-05	O-05	Spirit	Human	[O][O]	2	3	3	Cosmos	R	"Enter, target other spirit -> Weaken that spirit It doesn't refresh during the replenish phase as long as this card is in the field."	
+Mayan Commander	COSMOS	O-06	O-06	Spirit	Human	[O][O][O]	3	5	6	Cosmos	R	"Whenever this card attacks, reveal the top card of your deck -> If it's a spirit, spirits you control gain [+2/+2]. Otherwise, return this card to its owner's hand."	
+Protector of the Mayan	COSMOS	O-07	O-07	Spirit	Golem	[O][O][O]	3	5	10	Cosmos	U	"Interrupt | [At your opponent turn] Enter -> Reveal the top card of your deck. If it's not a spirit, return this card to its owner's hand."	
+"Nostradamus, First Star Reader"	COSMOS	O-08	O-08	Spirit	Human	[O][O][O][O]	4	8	8	Cosmos	SR	"Enter, reveal the top card of your deck -> If it's a spirit with total cost 3 or less, put it on your field it can't attack the turn that card summoned this way. | [Spirit Link] Esper with ""Maya"" on its name, [O][O][O][O]: Transform this card into ""Nostradamus, Creator of Fate"""	
 Future Prediction	COSMOS	O-09	O-09	Spell		[O]	1			Cosmos	U	Look at the top two cards of your deck and put them back in any order.	
 Fast Forward	COSMOS	O-10	O-10	Spell		[O][O]	2			Cosmos	U	Interrupt | Weaken target spirit.	
-Book of Fortune Telling	COSMOS	O-11	O-11	Ritual		[O][O]	2			Cosmos	R	Enter, Sacrifice other Book of Fortune Telling you control -> Draw a card. | Weaken -> Put the top card of your main on the bottom of your main deck.	
-Nostradamus, Creator of Fate	COSMOS	O-08L	O-08L	Linked Spirit	Human / Fortune Teller	[O][O][O][O][O][O][O][O]	8	14	14	Cosmos	SR	When this card transform succesfully, reveal the top 5 cards of your deck. Put all non-spell cards with different name with cost 4 or less from among them into the field and the rest into your Elysium. Those cards can't attack the turn those card summoned this way.	
-The Dusk Puppeteer, Derry	CORRUPT	C-01	C-02	Esper	Puppeteer		0			Corrupt	E	[Once per turn] Target a spirit with changed atk/def: it gains +1/0 or 0/-1 of your choice.| [6 or more Orbs]Whenever a Puppet spirit enter your fields, target a spirit->it gains 0/-2.	
+Book of Fortune Telling	COSMOS	O-11	O-11	Ritual		[O][O]	2			Cosmos	R	"Enter, Sacrifice other Book of Fortune Telling you control -> Draw a card. | Weaken -> Put the top card of your main on the bottom of your main deck."	
+"Nostradamus, Creator of Fate"	COSMOS	O-08L	O-08L	Linked Spirit	Human / Fortune Teller	[O][O][O][O][O][O][O][O]	8	14	14	Cosmos	SR	"When this card transform succesfully, reveal the top 5 cards of your deck. Put all non-spell cards with different name with cost 4 or less from among them into the field and the rest into your Elysium. Those cards can't attack the turn those card summoned this way."	
+"The Dusk Puppeteer, Derry"	CORRUPT	C-01	C-02	Esper	Puppeteer		0			Corrupt	E	"[Once per turn] Target a spirit with changed atk/def: it gains +1/0 or 0/-1 of your choice.| [6 or more Orbs]Whenever a Puppet spirit enter your fields, target a spirit->it gains 0/-2."	
 Lone Doll	CORRUPT	C-T01	C-T02	Spirit	Puppet	[C]	1	2	2	Corrupt	S		
 Puppet Soldier	CORRUPT	C-02	C-02	Spirit	Puppet	[C]	1	5	3	Corrupt	S		
-Omnious Teddy	CORRUPT	C-03	C-03	Spirit	Puppet	[C]	1	2	1	Corrupt	S	Enter, Target a spirit-> it gains -2/-2 until end or turn.	
+Omnious Teddy	CORRUPT	C-03	C-03	Spirit	Puppet	[C]	1	2	1	Corrupt	S	"Enter, Target a spirit-> it gains -2/-2 until end or turn."	
 Abandonded Scarecrow	CORRUPT	C-04	C-04	Spirit	Puppet	[C][C]	2	6	3	Corrupt	S	Intimidator	
-Puppet Keeper	CORRUPT	C-05	C-05	Spirit	Human	[C][C]	2	4	7	Corrupt	S	Enter, target a puppet with cost 3 or less in your Elysium->put it into your hand	
+Puppet Keeper	CORRUPT	C-05	C-05	Spirit	Human	[C][C]	2	4	7	Corrupt	S	"Enter, target a puppet with cost 3 or less in your Elysium->put it into your hand"	
 Violent Puppet	CORRUPT	C-06	C-06	Spirit	Puppet	[C][C][C]	3	10	5	Corrupt	S	Dominator | When this card attacks player or guard spirit-> this card gains -3/0	
-Vengeful Doll	CORRUPT	C-07	C-07	Spirit	Puppet	[C][C][C]	3	6	6	Corrupt	S	When this card is sent into Elysium from the field, target a spirit-> it gains 0/-4	
-Annabelle, Contained Nightmare	CORRUPT	C-08	C-08	Spirit	Puppet	[C][C][C][C]	4	10	10	Corrupt	S	"Enter, target a guard spirit-> weaken it.| Whenever this card destroy a spirit->this card gains +1/+1 until this card leaves the field.| [Spirit Link] Puppeteer Esper, [C][C][C]: Transform this card into ""Annabelle, Leaked Nightmare""."	
-Annabelle, Leaked Nightmare	CORRUPT	C-08L	C-08L	Linked Spirit	Puppet	[C][C][C][C][C][C][C]	7	14	14	Corrupt	S	Dominator| When this card transform succesfully, target a spirit-> You may destroy it.| Whenever this card destroy a spirit->this card gains +1/+1 until this card leaves the field	
-Make it Doll	CORRUPT	C-09	C-09	Spell		[C][C][C][C][C]	5			Corrupt	S	Target spirit gains -10/-10. This turn, if that spirit is destroyed-> put a Lone Doll into your field.	
-Doll Deal	CORRUPT	C-10	C-10	Spell		[C][C]	2			Corrupt	S	Draw 2 Cards, Put a Lone Doll into your opponent's field.	
+Vengeful Doll	CORRUPT	C-07	C-07	Spirit	Puppet	[C][C][C]	3	6	6	Corrupt	S	"When this card is sent into Elysium from the field, target a spirit-> it gains 0/-4"	
+"Annabelle, Contained Nightmare"	CORRUPT	C-08	C-08	Spirit	Puppet	[C][C][C][C]	4	10	10	Corrupt	S	"Enter, target a guard spirit-> weaken it.| Whenever this card destroy a spirit->this card gains +1/+1 until this card leaves the field.| [Spirit Link] Puppeteer Esper, [C][C][C]: Transform this card into ""Annabelle, Leaked Nightmare""."	
+"Annabelle, Leaked Nightmare"	CORRUPT	C-08L	C-08L	Linked Spirit	Puppet	[C][C][C][C][C][C][C]	7	14	14	Corrupt	S	"Dominator| When this card transform succesfully, target a spirit-> You may destroy it.| Whenever this card destroy a spirit->this card gains +1/+1 until this card leaves the field"	
+Make it Doll	CORRUPT	C-09	C-09	Spell		[C][C][C][C][C]	5			Corrupt	S	"Target spirit gains -10/-10. This turn, if that spirit is destroyed-> put a Lone Doll into your field."	
+Doll Deal	CORRUPT	C-10	C-10	Spell		[C][C]	2			Corrupt	S	"Draw 2 Cards, Put a Lone Doll into your opponent's field."	
 Emitting Terror	CORRUPT	C-11	C-11	Ritual		[C][C][C]	3			Corrupt	R	Puppet spirits gain +1/0. |Non-Puppet spirit gains 0/-1.	
-Jeanne, Holy Saint	HOLY	H-01	H-01	ESPER	HUMAN/SAINT	0	0	0	0	HOLY	ER	Guard spirit gain 0/+1. | When your soul is 15 or less, ?you can't take more than 6 damage from opponent spirit	
-Defense Troop	HOLY	H-02	H-02	SPIRIT	HUMAN	[H]	1	2	5	HOLY	C	At the end of your turn, if this spirit is exhausted, you can siege this spirit.	
+"Jeanne, Holy Saint"	HOLY	H-01	H-01	ESPER	HUMAN/SAINT	0	0	0	0	HOLY	ER	"Guard spirit gain 0/+1. | When your soul is 15 or less, ?you can't take more than 6 damage from opponent spirit"	
+Defense Troop	HOLY	H-02	H-02	SPIRIT	HUMAN	[H]	1	2	5	HOLY	C	"At the end of your turn, if this spirit is exhausted, you can siege this spirit."	
 Troop Supporter	HOLY	H-03	H-03	SPIRIT	HUMAN	[H]	1	3	3	HOLY	U	[Opponent turn][Weaken][Sacrifice this spirit] Refresh target spirit you control	
-Holy Defender	HOLY	H-04	H-04	SPIRIT	HUMAN	[H][H]	2	0	7	HOLY	C	[Guard] Your opponent can only target this card for attack, power, or spell.	
-Griffin	HOLY	H-05	H-05	SPIRIT	MYTHICAL BEAST	[H][1]	2	5	4	HOLY	SR	[Intimidator] | [Spirit Link] 4H, Esper with name Jeanne: All spirit your opponent currently control gain -1/-1, Transform this card into Kirin 	
-Kirin	HOLY	H-05L	H-05L	SPIRIT	MYTHICAL BEAST	[H][H][H][H][H][H]	6	12	12	HOLY	SR	[Intimidator] | [End of Turn] Target 1 spirit you control other than this card, gain +1/+1	
-Temple Guardian	HOLY	H-06	H-06	SPIRIT	MYTHICAL STATUE	[H][H][2]	4	8	8	HOLY	R	[Enter] Until end of next turn, any spirit's enter power doesn't active.	
-Spiritcaller Sister	HOLY	H-07	H-07	SPIRIT	HUMAN	[H][2]	3	6	7	HOLY	C	At the end turn after this spirit is played, add a Holy spirit with total cost 1 from your deck.	
+Holy Defender	HOLY	H-04	H-04	SPIRIT	HUMAN	[H][H]	2	0	7	HOLY	C	"[Guard] Your opponent can only target this card for attack, power, or spell."	
+Griffin	HOLY	H-05	H-05	SPIRIT	MYTHICAL BEAST	[H][1]	2	5	4	HOLY	SR	"[Intimidator] | [Spirit Link] 4H, Esper with name Jeanne: All spirit your opponent currently control gain -1/-1, Transform this card into Kirin "	
+Kirin	HOLY	H-05L	H-05L	SPIRIT	MYTHICAL BEAST	[H][H][H][H][H][H]	6	12	12	HOLY	SR	"[Intimidator] | [End of Turn] Target 1 spirit you control other than this card, gain +1/+1"	
+Temple Guardian	HOLY	H-06	H-06	SPIRIT	MYTHICAL STATUE	[H][H][2]	4	8	8	HOLY	R	"[Enter] Until end of next turn, any spirit's enter power doesn't active."	
+Spiritcaller Sister	HOLY	H-07	H-07	SPIRIT	HUMAN	[H][2]	3	6	7	HOLY	C	"At the end turn after this spirit is played, add a Holy spirit with total cost 1 from your deck."	
 Blessed Chimera	HOLY	H-08	H-08	SPIRIT	MYTHICAL BEAST	[H][H][1]	3	8	1	HOLY	R	[Dominator][Agile][Absorb]	
 Saint's Protection	HOLY	H-09	H-09	SPELL	-	[H][H]	2	-	-	HOLY	U	[Interrupt] | [choose 1] target spirit gain eternal until the end of this turn or heal 2 life of target esper/spirit	
-Holy Water	HOLY	H-10	H-10	SPELL	-	[H]	1	-	-	HOLY	C	Draw 1 card, heal 2 life	
-Royal Castle	HOLY	H-11	H-11	RITUAL	-	[H][2]	3	-	-	HOLY	C	Guard spirit you control gain 0/+1 | Whenever your spirit attack, that spirit gain +2/0 until the end of turn | Any heal that opponent taken, become damage instead	
+Holy Water	HOLY	H-10	H-10	SPELL	-	[H]	1	-	-	HOLY	C	"Draw 1 card, heal 2 life"	
+Royal Castle	HOLY	H-11	H-11	RITUAL	-	[H][2]	3	-	-	HOLY	C	"Guard spirit you control gain 0/+1 | Whenever your spirit attack, that spirit gain +2/0 until the end of turn | Any heal that opponent taken, become damage instead"	
 Holy	ORBS	holy	holy	Orbs	-	-	-	-	-	Holy	-	-	
 Corrupt	ORBS	corrupt	corrupt	Orbs	-	-	-	-	-	Corrupt	-	-	
 Gaia	ORBS	gaia	gaia	Orbs	-	-	-	-	-	Gaia	-	-	
 Cosmos	ORBS	cosmos	cosmos	Orbs	-	-	-	-	-	Cosmos	-	-	
 Fantasy	ORBS	fantasy	fantasy	Orbs	-	-	-	-	-	Fantasy	-	-	
 Science	ORBS	science	science	Orbs	-	-	-	-	-	Science	-	-	
-Rina, Mirror Sorcerer	FANTASY	F-01	F-01	Esper	Conjurer					Fantasy	2	Spirits you control with same name gains +1/+1.| [25 or less deck][Once per turn, only your turn]FF,weaken 2 cards with same name:draw a card.| [15 or less deck][Once per turn, only your turn]F+X,target spirit you control cost X: Create a Copy of that spirit with 1 Def, expel it at the end of turn.	
+"Rina, Mirror Sorcerer"	FANTASY	F-01	F-01	Esper	Conjurer					Fantasy	2	"Spirits you control with same name gains +1/+1.| [25 or less deck][Once per turn, only your turn]FF,weaken 2 cards with same name:draw a card.| [15 or less deck][Once per turn, only your turn]F+X,target spirit you control cost X: Create a Copy of that spirit with 1 Def, expel it at the end of turn."	
 Little Pig of Straw	FANTASY	F-02	F-02	Spirit	Fairy Tale/Little Pigs	[F]	1	3	5	Fantasy	2		
 Little Pig of Wood	FANTASY	F-03	F-03	Spirit	Fairy Tale/Little Pigs	[F][F]	2	4	7	Fantasy	2	Enter-> Search a Little Pig spirit with total cost 1 or less from your deck and put it into your hand.	
 Little Pig of Brick	FANTASY	F-04	F-04	Spirit	Fairy Tale/Little Pigs	[F][F][F]	3	5	8	Fantasy	2	Enter-> Search a Little Pig spirit with total cost 2 or less from your deck and put it into your hand.| Other Little Pigs you control gains 0/+2	
 Hansel	FANTASY	F-05	F-05	Spirit	Fairy Tale/Children	[F][F]	2	6	6	Fantasy	2	"Enter-> Search your deck for a card named Gretel and put it into your hand.| [Spirit Link] You Control a Gretel, pay 4F: Transform this card into ""Hansel, the Reliable Brother"""	
-Hansel, the Reliable Brother	FANTASY	F-05L	F-05L	Linked Spirit	Fairy Tale/Children	[F][F][F][F][F][F]	6	12	12	Fantasy	2	When Transform Succesfully-> Draw a Card.|Gretel you Control gains +4/+4 and Imunity	
+"Hansel, the Reliable Brother"	FANTASY	F-05L	F-05L	Linked Spirit	Fairy Tale/Children	[F][F][F][F][F][F]	6	12	12	Fantasy	2	When Transform Succesfully-> Draw a Card.|Gretel you Control gains +4/+4 and Imunity	
 Gretel	FANTASY	F-06	F-06	Spirit	Fairy Tale/Children	[F]	1	3	3	Fantasy	2	This Card gains +1/+1 for each card with 'Hansel' you control	
-Big Blower Wolf	FANTASY	F-07	F-07	Spirit	Fairy Tale/Wolf	[F][F][F][F]	4	10	10	Fantasy	2	[Once per Turn]Return a spirit  you control with total cost 2 or less to owner's hand: This card gains 0/+1, if that spirit trait is Little Pig gains +1/0	
+Big Blower Wolf	FANTASY	F-07	F-07	Spirit	Fairy Tale/Wolf	[F][F][F][F]	4	10	10	Fantasy	2	"[Once per Turn]Return a spirit  you control with total cost 2 or less to owner's hand: This card gains 0/+1, if that spirit trait is Little Pig gains +1/0"	
 Witch of Cake House	FANTASY	F-08	F-08	Spirit	Fairy Tale/Witch	[F][F][F]	3	6	7	Fantasy	2	This card gains +1/+1 for each Children spirit with different name. |If you control three or more Children spirit this card gains Dominator.	
 Welcome to Fantasy	FANTASY	F-09	F-09	Spell		[F]	1			Fantasy	2	Search your deck for a Fantasy spirit with total cost 1 and add it into your hand.	
 Dreamy Illusion	FANTASY	F-10	F-10	Spell		[F][X]	1			Fantasy	2	Interrupt| Return target spirit with total cost X or less into owner's hand. 	
 Infinite Cake!!	FANTASY	F-11	F-11	Ritual		[F][F]	2			Fantasy	2	Whenever you add a card from your deck to your hand->restore 1 soul	
-Pricia Nature speaker	Gaia	G-01	G-01	Esper	Human		0			Gaia	2	Spirit with highest attack both player control gain +1/+1.| [total attack spirit you control 20 or more] [Once per turn] G target spirit you control gain +2/-2.|[total attack spirit you control 30 or more] [Once per turn] G+1 sacrice spirit you control, target spirit gain attack equal to the sacrificed spirit attack.	
-Elf spirit	Gaia	G-02	G-02	SPIRIT	Elf	[G]	1	2	2	Gaia	2	During your turn,weaken this card and sacrifice it target Beast you control gain +4/+4.	
-Wild Tiger	Gaia	G-03	G-03	SPIRIT	Beast	[G]	1	6	6	Gaia	2	This card cannot attack.| When another spirit you control sent to elysium because of battle this turn, this card can attack.	
+Pricia Nature speaker	Gaia	G-01	G-01	Esper	Human		0			Gaia	2	"Spirit with highest attack both player control gain +1/+1.| [total attack spirit you control 20 or more] [Once per turn] G target spirit you control gain +2/-2.|[total attack spirit you control 30 or more] [Once per turn] G+1 sacrice spirit you control, target spirit gain attack equal to the sacrificed spirit attack."	
+Elf spirit	Gaia	G-02	G-02	SPIRIT	Elf	[G]	1	2	2	Gaia	2	"During your turn,weaken this card and sacrifice it target Beast you control gain +4/+4."	
+Wild Tiger	Gaia	G-03	G-03	SPIRIT	Beast	[G]	1	6	6	Gaia	2	"This card cannot attack.| When another spirit you control sent to elysium because of battle this turn, this card can attack."	
 Spirit Caller Elf	Gaia	G-04	G-04	SPIRIT	Elf	[G][G]	2	5	5	Gaia	2	"When this card is sent to elysium -> put ""mana"" to your hand."	
 Mana	Gaia	G-T01	G-T01	Spell		[0]	0			Gaia	2	You gain 1 gaia aura. you can only use this card once per turn.	
-Dire Wolf	Gaia	G-05	G-05	SPIRIT	Beast	[G][G]	2	6	6	Gaia	2	if this card would be dealt damage gain -X/-X , where X is the damage that would be dealt.| At the end of damage step after this card attack opponent spirit, summon a copy of this card with the same Attack and Defend rested.	
+Dire Wolf	Gaia	G-05	G-05	SPIRIT	Beast	[G][G]	2	6	6	Gaia	2	"if this card would be dealt damage gain -X/-X , where X is the damage that would be dealt.| At the end of damage step after this card attack opponent spirit, summon a copy of this card with the same Attack and Defend rested."	
 Rampaging Turtle	Gaia	G-06	G-06	SPIRIT	Beast	[G][G][G]	3	10	10	Gaia	2	"Enter -> discard 2 ""mana"" from your hand or banish 1 orb you control."	
 Nana nature guardian	Gaia	G-07	G-07	SPIRIT	Elf	[G][G][G]	3	7	5	Gaia	2	"Enter -> put 1 ""Mana"" to your hand.| [Once per turn] Discard 1 ""Mana"" target spirit gain +2/+2 until end of turn.| [Once per turn] Banish 2 orbs you control, target spirit gain +2/+2 until end of turn."	
 Xing Long sacred tiger	Gaia	G-08	G-08	SPIRIT	Beast	[G][G][G][G]	4	10	8	Gaia	2	"[Once per turn] When this card attacks and destroy opponent spirit, gain +2/+0 at the end of damage step.| [Spirit Link] pay 6G: Transform this card into ""Xing Long the white wild"""	
-Xing Long the King	Gaia	G-08L	G-08L	SPIRIT	Beast	[G][G][G][G][G][G][G][G][G][G]	10	16	16	Gaia	2	[Enter]this card and target Spirit your opponent controls deal damage equal to their ATK to each other.| [Once per turn] When this card is dealt damage, gain +2/0 at the end of damage step.	
-Nature Blessing	Gaia	G-09	G-09	Spell		[G]	1			Gaia	2	[Interupt]| [during your opponent turn] target creature gain +4/+4 until end of turn.| if that creature power is 16 or more, draw card.	
+Xing Long the King	Gaia	G-08L	G-08L	SPIRIT	Beast	[G][G][G][G][G][G][G][G][G][G]	10	16	16	Gaia	2	"[Enter]this card and target Spirit your opponent controls deal damage equal to their ATK to each other.| [Once per turn] When this card is dealt damage, gain +2/0 at the end of damage step."	
+Nature Blessing	Gaia	G-09	G-09	Spell		[G]	1			Gaia	2	"[Interupt]| [during your opponent turn] target creature gain +4/+4 until end of turn.| if that creature power is 16 or more, draw card."	
 Sharp Claw	Gaia	G-10	G-10	Spell		[G][G]	2			Gaia	2	"Target spirit you control gain +2/+4 until end of turn and gain ""this card cannot attack this turn"".| Both player spirit with highest atk deal damage equal to their attack to each other."	
 Sanctuary of the King	Gaia	G-11	G-11	Ritual		[G][G][G]	3			Gaia	2	At the start of your turn when you control Spirit with Atk 12 or more draw a card.	
+Flask of Opportunity	SCIENCE	S-T03	S-T03	Spirit	Mechanical	[S]	1	0	1	Science	C	This card cannot attack and cannot be put into guard position | When this card leave the field->restore your soul by 2	
