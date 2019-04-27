@@ -73,14 +73,14 @@ Little Pig of Brick	FANTASY	F-04	F-04	Spirit	Fairy Tale/Little Pigs	[F][F][F]	3	
 Hansel	FANTASY	F-05	F-05	Spirit	Fairy Tale/Children	[F][F]	2	6	6	Fantasy	2	"Enter-> Search your deck for a card named Gretel and put it into your hand.| [Spirit Link] You Control a Gretel, pay 4F: Transform this card into ""Hansel, the Reliable Brother"""	
 "Hansel, the Reliable Brother"	FANTASY	F-05L	F-05L	Linked Spirit	Fairy Tale/Children	[F][F][F][F][F][F]	6	12	12	Fantasy	2	When Transform Succesfully-> Draw a Card.|Gretel you Control gains +4/+4 and Imunity	
 Gretel	FANTASY	F-06	F-06	Spirit	Fairy Tale/Children	[F]	1	3	3	Fantasy	2	This Card gains +1/+1 for each card with 'Hansel' you control	
-Big Blower Wolf	FANTASY	F-07	F-07	Spirit	Fairy Tale/Wolf	[F][F][F][F]	4	10	10	Fantasy	2	"[Once per Turn]Return a spirit  you control with total cost 2 or less to owner's hand: This card gains 0/+1, if that spirit trait is Little Pig gains +1/0"	
+Big Blower Wolf	FANTASY	F-07	F-07	Spirit	Fairy Tale/Wolf	[F][F][F][F]	4	10	10	Fantasy	2	"[Once per Turn]Return a non-exhausted spirit  you control with total cost 2 or less to owner's hand: This card gains 0/+1, if that spirit trait is Little Pig gains +1/0"	
 Witch of Cake House	FANTASY	F-08	F-08	Spirit	Fairy Tale/Witch	[F][F][F]	3	6	7	Fantasy	2	This card gains +1/+1 for each Children spirit with different name. |If you control three or more Children spirit this card gains Dominator.	
 Welcome to Fantasy	FANTASY	F-09	F-09	Spell		[F]	1			Fantasy	2	Search your deck for a Fantasy spirit with total cost 1 and add it into your hand.	
 Dreamy Illusion	FANTASY	F-10	F-10	Spell		[F][X]	1			Fantasy	2	Interrupt| Return target spirit with total cost X or less into owner's hand. 	
 Infinite Cake!!	FANTASY	F-11	F-11	Ritual		[F][F]	2			Fantasy	2	Whenever you add a card from your deck to your hand->restore 1 soul	
 Pricia Nature speaker	Gaia	G-01	G-01	Esper	Human		0			Gaia	2	"Spirit with highest attack both player control gain +1/+1.| [total attack spirit you control 20 or more] [Once per turn] G target spirit you control gain +2/-2.|[total attack spirit you control 30 or more] [Once per turn] G+1 sacrice spirit you control, target spirit gain attack equal to the sacrificed spirit attack."	
 Elf spirit	Gaia	G-02	G-02	SPIRIT	Elf	[G]	1	2	2	Gaia	2	"During your turn,weaken this card and sacrifice it target Beast you control gain +4/+4."	
-Wild Tiger	Gaia	G-03	G-03	SPIRIT	Beast	[G]	1	6	6	Gaia	2	"This card cannot attack.| When another spirit you control sent to elysium because of battle this turn, this card can attack."	
+Wild Tiger	Gaia	G-03	G-03	SPIRIT	Beast	[G]	1	6	6	Gaia	2	"This card cannot attack and cannot be put into guard position| When another spirit you control sent to elysium because of battle this turn, this card can attack."	
 Spirit Caller Elf	Gaia	G-04	G-04	SPIRIT	Elf	[G][G]	2	5	5	Gaia	2	"When this card is sent to elysium -> put ""mana"" to your hand."	
 Mana	Gaia	G-T01	G-T01	Spell		[0]	0			Gaia	2	You gain 1 gaia aura. you can only use this card once per turn.	
 Dire Wolf	Gaia	G-05	G-05	SPIRIT	Beast	[G][G]	2	6	6	Gaia	2	"if this card would be dealt damage gain -X/-X , where X is the damage that would be dealt.| At the end of damage step after this card attack opponent spirit, summon a copy of this card with the same Attack and Defend rested."	
