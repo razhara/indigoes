@@ -58,8 +58,23 @@
 		<card><name id="science">Science</name><set>ORBS</set></card>
 		<card><name id="science">Science</name><set>ORBS</set></card>
 		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
+		<card><name id="science">Science</name><set>ORBS</set></card>
 	</superzone>
 	<superzone name="Tokens">
+		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
+		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
+		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
+		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
+		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
 		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
 		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
 		<card><name id="S-T01">Helper Droid</name><set>SCIENCE</set></card>
@@ -85,5 +100,9 @@
 		<card><name id="S-T02">Guardian Robot</name><set>SCIENCE</set></card>
 		<card><name id="S-T02">Guardian Robot</name><set>SCIENCE</set></card>
 		<card><name id="S-06L">Lena, the Commander of the Droid</name><set>SCIENCE</set></card>
+		<card><name id="S-T03">Flask of Opportunity</name><set>SCIENCE</set></card>
+		<card><name id="S-T03">Flask of Opportunity</name><set>SCIENCE</set></card>
+		<card><name id="S-T03">Flask of Opportunity</name><set>SCIENCE</set></card>
+		<card><name id="S-T03">Flask of Opportunity</name><set>SCIENCE</set></card>
 	</superzone>
 </deck>
